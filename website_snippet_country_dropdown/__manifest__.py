@@ -17,13 +17,11 @@
     "demo": ["demo/pages.xml"],
     "assets": {
         "web.assets_tests": [
-            "/website_snippet_country_dropdown/static/src/js/"
-            "web_tour_country_dropdown.js"
+            "/website_snippet_country_dropdown/static/src/js/web_tour_country_dropdown.js"
         ],
         "web.assets_frontend": [
             "/website_snippet_country_dropdown/static/src/css/style.scss",
-            "/website_snippet_country_dropdown/static/src/js/"
-            "website_snippet_country_dropdown.js",
+            "/website_snippet_country_dropdown/static/src/js/website_snippet_country_dropdown.js",
         ],
         "web.assets_qweb": [
             "/website_snippet_country_dropdown/static/src/xml/country_dropdown.xml"
